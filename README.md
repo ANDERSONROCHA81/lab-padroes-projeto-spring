@@ -1,2 +1,6 @@
-# lab-padroes-projeto-spring
- Repositório para o desafio da DIO sobre padrões de projeto utilizando Spring.
+# Explorando Padrões de Projetos na Prática com Java
+
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
+- Singleton
+- Strategy/Repository
+- Facade
